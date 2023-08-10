@@ -1,25 +1,3 @@
-Anki flash card generator
+## About This App
 
-### Usage
-
-```
-    node index.mjs <input file>
-```
-
-### What is this?
-
-This is [Anki flash card](https://apps.ankiweb.net/) generator.
-The output will be generated in `out.txt` file.
-
-### Support
-
-#### Languages
-
-- [x] Korean-Japanese
-- [ ] Japanese-Korean
-- [ ] English-Korean
-- [ ] Korean-English
-
-#### Dictionary
-
-- Naver dictionary
+- 이 앱은 네이버 단어장으로부터 단어를 추출하여, Anki 카드 형식으로 변환해주는 앱입니다.
